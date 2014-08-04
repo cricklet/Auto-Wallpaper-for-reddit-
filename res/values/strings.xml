@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoWallpaper</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="defaults">
+        <item>earthporn</item>
+        <item>spaceporn</item>
+    </string-array>
+    <string-array name="free">
+        <item>earthporn</item>
+        <item>spaceporn</item>
+        <item>aww</item>
+        <item>wallpapers</item>
+        <item>rabbits</item>
+        <item>cats</item>
+        <item>climbingporn</item>
+    </string-array>
+    <string-array name="elemental">
+        <item>earthporn</item>
+        <item>waterporn</item>
+        <item>skyporn</item>
+        <item>spaceporn</item>
+        <item>fireporn</item>
+        <item>destructionporn</item>
+        <item>geologyporn</item>
+        <item>winterporn</item>
+        <item>autumnporn</item>
+    </string-array>
+    <string-array name="synthetic">
+        <item>cityporn</item>
+        <item>villageporn</item>
+        <item>abandonedporn</item>
+        <item>infrastructureporn</item>
+        <item>machineporn</item>
+        <item>militaryporn</item>
+        <item>cemeteryporn</item>
+        <item>architectureporn</item>
+        <item>carporn</item>
+        <item>gunporn</item>
+        <item>boatporn</item>
+        <item>aerialporn</item>
+        <item>F1porn</item>
+        <item>ruralporn</item>
+    </string-array>
+    <string-array name="organic">
+        <item>animalporn</item>
+        <item>botanicalporn</item>
+        <item>humanporn</item>
+        <item>adrenalineporn</item>
+        <item>climbingporn</item>
+        <item>culinaryporn</item>
+        <item>foodporn</item>
+        <item>dessertporn</item>
+        <item>agricultureporn</item>
+    </string-array>
+    <string-array name="aesthetic">
+        <item>designporn</item>
+        <item>albumartporn</item>
+        <item>movieposterporn</item>
+        <item>adporn</item>
+        <item>geekporn</item>
+        <item>instrumentporn</item>
+        <item>macroporn</item>
+        <item>artporn</item>
+        <item>fractalporn</item>
+        <item>exposureporn</item>
+        <item>microporn</item>
+        <item>metalporn</item>
+        <item>streetartporn</item>
+    </string-array>
+    <string-array name="scholastic">
+        <item>historyporn</item>
+        <item>mapporn</item>
+        <item>bookporn</item>
+        <item>newsporn</item>
+        <item>quotesporn</item>
+        <item>futureporn</item>
+    </string-array>
+    <string-array name="girls">
+        <item>gentlemanboners</item>
+        <item>ladyboners</item>
+        <item>alisonbrie</item>
+        <item>emmawatson</item>
+        <item>oliviawilde</item>
+        <item>PrettyGirls</item>
+        <item>sexy</item>
+        <item>cosplaygirls</item>
+        <item>girlsinyogapants</item>
+    </string-array>
+    <string-array name="nsfw">
+        <item>nsfw</item>
+        <item>nsfw_wallpapers</item>
+        <item>boobies</item>
+        <item>gonewild</item>
+        <item>nude</item>
+    </string-array>
+
+</resources>

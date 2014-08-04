@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="livewallpaper_settings"
+    android:title="AutoWallpaper" >
+
+    <PreferenceCategory android:title="Settings" >
+        <Preference
+            android:key="about"
+            android:title="About" />
+        <Preference
+            android:key="reload"
+            android:summary="Forces the wallpaper to load a new image. Useful if you don&apos;t like what&apos;s being displayed."
+            android:title="Reload Wallpaper" />
+
+        <com.autowallpaper.custom.IntEditTextPreference
+            android:defaultValue="-1"
+            android:key="download_width"
+            android:numeric="integer"
+            android:title="Min Width" />
+        <com.autowallpaper.custom.IntEditTextPreference
+            android:defaultValue="-1"
+            android:key="download_height"
+            android:numeric="integer"
+            android:title="Min Height" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Free subreddits" >
+        <com.autowallpaper.custom.SubredditPreference
+            android:defaultValue="@array/defaults"
+            android:entries="@array/free"
+            android:entryValues="@array/free"
+            android:key="free_subreddits"
+            android:title="Free subreddits" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="paid_subreddits"
+        android:title="Paid subreddits" >
+        <com.autowallpaper.custom.SummaryEditTextPreference
+            android:defaultValue=""
+            android:key="custom_subreddits"
+            android:title="Enter your own subreddit" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
