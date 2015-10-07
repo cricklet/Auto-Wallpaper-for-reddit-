@@ -1,6 +1,8 @@
 Auto-Wallpaper--for-reddit-
 ===========================
 
+# Please don't use this! It has some very strange behaviour on recent Android installs.
+
 A wallpaper app I built a couple years ago. Has been downloaded almost 10,000 times.
 
 https://play.google.com/store/apps/details?id=com.autowallpaper.free&hl=en
