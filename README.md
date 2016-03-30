@@ -1,7 +1,7 @@
 Auto-Wallpaper--for-reddit-
 ===========================
 
-#### Please don't use this! It has some very strange behaviour on recent Android installs.
+#### Don't use this! I don't do Android dev anymore and haven't been able to maintain the project as Android has matured.
 
 A wallpaper app I built in early 2013. It has been downloaded over 20,000 times.
 
