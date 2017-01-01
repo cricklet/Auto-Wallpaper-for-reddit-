@@ -1,7 +1,7 @@
 Auto-Wallpaper--for-reddit-
 ===========================
 
-#### Don't use this! I don't do Android dev anymore and haven't been able to maintain the project as Android has matured.
+![playstore](http://i.imgur.com/kUDKfQ6.png)
 
 A wallpaper app I built in early 2013. It has been downloaded over 20,000 times.
 
