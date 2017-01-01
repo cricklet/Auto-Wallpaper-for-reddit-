@@ -1,6 +1,3 @@
-Auto-Wallpaper--for-reddit-
-===========================
-
 ![playstore](http://i.imgur.com/kUDKfQ6.png)
 
 A wallpaper app I built in early 2013. It has been downloaded over 20,000 times.
